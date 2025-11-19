@@ -2,7 +2,7 @@
 
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=600&color=00FF6A&center=true&vCenter=true&width=500&lines=Hello+👋;I'm+V+S+Karthik+Sarma;Full+Stack+Developer;AI+ML+Enthusiast" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=600&color=00FF6A&center=true&vCenter=true&width=500&lines=Hello+👋;I'm+Venkata+Siva+Karthik;" />
   </a>
 </h3>
 
@@ -40,7 +40,7 @@ Currently building cool stuff, solving bugs, and exploring CS in my own chaotic 
 <table align="center" cellpadding="10">
   <tr>
     <td align="center">
-      <img width="390" src="https://streak-stats.demolab.com/?user=karthik-vvs&count_private=true&theme=react&border_radius=10" />
+      <img src="https://streak-stats.demolab.com?user=karthik-vvs&theme=react" alt="GitHub Streak" />
     </td>
     <td align="center">
       <img width="390" src="https://github-readme-stats.vercel.app/api?username=karthik-vvs&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
