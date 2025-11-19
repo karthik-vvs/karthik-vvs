@@ -28,8 +28,8 @@ Currently building cool stuff, solving bugs, and exploring CS in my own chaotic 
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,javascript,typescript,nodejs,git,github,vscode,vite" /><br>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,mysql,mongodb,tailwind" /><br>
+  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,javascript,nodejs,git,github,vscode,vite,express,redux" /><br>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,mysql,mongodb,postman,gcp" /><br>
 </div>
 
 <br/>
@@ -40,7 +40,7 @@ Currently building cool stuff, solving bugs, and exploring CS in my own chaotic 
 <table align="center" cellpadding="10">
   <tr>
     <td align="center">
-      <img src="https://streak-stats.demolab.com?user=karthik-vvs&theme=react" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com?user=karthik-vvs&theme=tokyonight" alt="GitHub Streak" />
     </td>
     <td align="center">
       <img width="390" src="https://github-readme-stats.vercel.app/api?username=karthik-vvs&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
